@@ -2,14 +2,14 @@
   h1 {
     margin-bottom: 15px;
     font-size: 60px;
-    color: aqua;
+    color: rgb(61, 133, 133);
     text-align: 00CCCC;
   }
 
-  h2 {
-	margin-bottom: 15px;
+  .h2 {
+	  margin-bottom: 15px;
    	font-size: 40px;
-    	color: 00CCCC;
+  	color: 00CCCC;
   }
   h3 {
     	margin-bottom: 15px;
@@ -17,3 +17,4 @@
 	color:00CCCC
   }
 
+    
